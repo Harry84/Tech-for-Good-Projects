@@ -2,7 +2,7 @@
 
 #### Proposal
 
-We can use Data to measure a society's proneness to radicalisation and instability.  Also it's degree of Normalisation.
+We can use Data to measure a society's proneness to radicalisation and instability.  Also its degree of Normalisation.
 
 ###### How?
 
@@ -25,7 +25,7 @@ We can use Data to measure a society's proneness to radicalisation and instabili
   * Race relations
   * Living Standards
   * The economy
-  * Climate changes
+  * Climate change
   * Education
   * Housing
   * Privatisation vs Nationalisation
